@@ -1,2 +1,2 @@
 # desafio-00
- ECMAScript y ECMAScript avanzado
+ECMAScript y ECMAScript avanzado
